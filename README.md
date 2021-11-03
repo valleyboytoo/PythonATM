@@ -24,3 +24,11 @@ The following functions concern the ATM's functioning with respect to the system
 Plot Account Balances
 
 This feature of the Administrator menu is not something that is realistic, however it is used in this project for the sole purpose of having you implement the use of Python’s graph and plotting feature.
+
+![1](https://user-images.githubusercontent.com/72087494/140218023-d0537e16-66b9-478b-9385-41be967dc5b8.jpg)
+
+![2](https://user-images.githubusercontent.com/72087494/140217998-c84196bd-1a7a-469d-9c7d-dcf1ca1c0e0a.jpg)
+
+![3](https://user-images.githubusercontent.com/72087494/140218010-a93f7fc2-81a9-4cb4-ac7e-06790ceb2904.jpg)
+
+![4](https://user-images.githubusercontent.com/72087494/140218018-fc78777e-d625-48e8-985d-7bf3c8fa46db.jpg)
